@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/rustyshackleford36/locatarr.svg)](http://hits.dwyl.com/rustyshackleford36/locatarr)
+
 # locatarr - Why? 
 My intent is to locate all the *arr apps that are out there in the world, like Sonarr, Radarr, etc. Thus, locatarr! 
 
@@ -15,7 +17,7 @@ All services are supported on Windows, macOS, Linux, and Docker unless otherwise
 | Radarr | Automates and manages **movies** | [https://radarr.video/](https://radarr.video/) |  [https://github.com/Radarr/Radarr] | [/r/Radarr](http://reddit.com/r/Radarr) 
 | Sonarr | Automates and manages **TV series** | [https://sonarr.tv/](https://sonarr.tv/) | [https://github.com/Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) | [/r/Sonarr](http://reddit.com/r/sonarr) |
 | Lidarr | Automates and manages **music**
-| Mylarr | Actually named Mylar, referred to as Mylarr. 
+| Mylar | Automates and manages comic books 
 | Listrr
 
 
