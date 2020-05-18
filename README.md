@@ -8,6 +8,8 @@ Not all inclusive -- please feel free to update as you see fit!
 
 All services are supported on Windows, macOS, Linux, and Docker unless otherwise noted. 
 
+# *RR Services
+
 |Service                                                                                            |Usage                                              |Recent Activity                                                                                              |Github                                                               |Reddit                                     |
 |---------------------------------------------------------------------------------------------------|---------------------------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------|
 |Addarr ![GitHub All Releases](https://img.shields.io/github/downloads/waterboy1602/addarr/total)   |Telegram bot for Sonarr/Radarr                     |![GitHub last commit](https://img.shields.io/github/last-commit/waterboy1602/addarr?label=last%20updated)    |[Waterboy1602/Addarr](https://github.com/Waterboy1602/Addarr)        |                                           |
@@ -28,3 +30,8 @@ All services are supported on Windows, macOS, Linux, and Docker unless otherwise
 |Sonarr ![Docker Pulls](https://img.shields.io/docker/pulls/linuxserver/sonarr)                     |Automates & manages **TV series**                  |![GitHub last commit](https://img.shields.io/github/last-commit/sonarr/sonarr?label=last%20updated)          |[Sonarr/Sonarr](https://github.com/Sonarr/Sonarr)                    |[/r/Sonarr](http://reddit.com/r/sonarr)    |
 |Syncarr                                                                                            |Sync two Radarr/Sonarr/Lidarr servers via API      |![GitHub last commit](https://img.shields.io/github/last-commit/syncarr/syncarr)                             |[syncarr/syncarr](https://github.com/syncarr/syncarr)                |                                           |
 |Traktarr                                                                                           |Add new media based on Trakt lists                 |![GitHub last commit](https://img.shields.io/github/last-commit/l3uddz/traktarr)                             |[l3uddz/traktarr](https://github.com/l3uddz/traktarr)                |                                           |
+
+
+# Other Helpful Apps
+
+Coming soon!
