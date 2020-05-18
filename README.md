@@ -5,7 +5,7 @@
 
 
 # locatarr - Why? 
-@ -12,15 +11,25 @@ Not all inclusive -- please feel free to update as you see fit!
+Not all inclusive -- please feel free to update as you see fit!
 
 All services are supported on Windows, macOS, Linux, and Docker unless otherwise noted. 
 
