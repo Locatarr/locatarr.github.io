@@ -1,6 +1,5 @@
 [![HitCount](http://hits.dwyl.com/rustyshackleford36/locatarr.svg)](http://hits.dwyl.com/rustyshackleford36/locatarr)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rustyshackleford36/locatarr/issues)
-[![HitCount](http://hits.dwyl.com/rustyshackleford36/locatarr.svg)](http://hits.dwyl.com/rustyshackleford36/locatarr) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rustyshackleford36/locatarr/issues)
 
 
 # locatarr - Why? 
