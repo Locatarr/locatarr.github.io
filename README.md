@@ -1,4 +1,5 @@
-[![HitCount](http://hits.dwyl.com/rustyshackleford36/locatarr.svg)](http://hits.dwyl.com/rustyshackleford36/locatarr) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rustyshackleford36/locatarr/issues)
+[![HitCount](http://hits.dwyl.com/rustyshackleford36/locatarr.svg)](http://hits.dwyl.com/rustyshackleford36/locatarr)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rustyshackleford36/locatarr/issues)
 
 
 # locatarr - Why? 
@@ -11,6 +12,7 @@ Not all inclusive -- please feel free to update as you see fit!
 
 All services are supported on Windows, macOS, Linux, and Docker unless otherwise noted. 
 
+<<<<<<< HEAD
 | Service                                                                                                    | Usage                                                | Recent Activity                                                                                                       | Github                                                                     | Reddit                                           |
 |------------------------------------------------------------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------------|
 | Addarr \!\[GitHub All Releases\]\(https://img\.shields\.io/github/downloads/waterboy1602/addarr/total\)    | Telegram bot for Sonarr/Radarr                       | \!\[GitHub last commit\]\(https://img\.shields\.io/github/last\-commit/waterboy1602/addarr?label=last%20updated\)     | \[Waterboy1602/Addarr\]\(https://github\.com/Waterboy1602/Addarr\)         |                                                  |
@@ -36,6 +38,17 @@ All services are supported on Windows, macOS, Linux, and Docker unless otherwise
 
 
 
+=======
+| Service | Description | Project Website | Github | Reddit | 
+|-|-----|---|---|-|
+| Bazarr| 
+| Bonarr<br>_(yes, seriously!)_ | 
+| Radarr | Automates and manages **movies** | [https://radarr.video/](https://radarr.video/) |  [https://github.com/Radarr/Radarr] | [/r/Radarr](http://reddit.com/r/Radarr) 
+| Sonarr | Automates and manages **TV series** | [https://sonarr.tv/](https://sonarr.tv/) | [https://github.com/Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) | [/r/Sonarr](http://reddit.com/r/sonarr) |
+| Lidarr | Automates and manages **music**
+| Mylar | Automates and manages comic books 
+| Listrr
+>>>>>>> parent of b03c1a8... Update README.md
 
 
 
