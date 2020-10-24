@@ -7,7 +7,7 @@ Not all inclusive -- please feel free to update as you see fit!
 
 All services are supported on Windows, macOS, Linux, and Docker unless otherwise noted. 
 
-# *RR Services
+# *ARR Services
 
 |Service                                                                                            |Usage                                              |Recent Activity                                                                                              |Github                                                               |Reddit                                     |
 |---------------------------------------------------------------------------------------------------|---------------------------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------|
