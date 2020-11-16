@@ -2,6 +2,8 @@
 [![HitCount](http://hits.dwyl.com/rustyshackleford36/locatarr.svg)](http://hits.dwyl.com/rustyshackleford36/locatarr)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rustyshackleford36/locatarr/issues)
 
+<a href="https://www.buymeacoffee.com/locatarr"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=locatarr&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff"></a>
+
 
 # locatarr - Why? 
 Not all inclusive -- please feel free to update as you see fit!
