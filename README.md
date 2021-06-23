@@ -47,4 +47,5 @@ All services are supported on Windows, macOS, Linux, and Docker unless otherwise
 |Overseerr | Manages media requests | ![GitHub last commit](https://img.shields.io/github/last-commit/sct/overseerr) | [sct/overseerr](https://github.com/sct/overseerr) | [/r/Overseerr](https://www.reddit.com/r/Overseerr/)
 | Unmanic  | Transcodes your library | ![GitHub last commit](https://img.shields.io/github/last-commit/josh5/unmanic)| [josh5/unmanic](https://github.com/Josh5/unmanic)| 
 | Jellyfin  | Free Software Media System | ![GitHub last commit](https://img.shields.io/github/last-commit/jellyfin/jellyfin)| [jellyfin/jellyfin](https://github.com/jellyfin)| [/r/Jellyfin](http://www.reddit.com/r/jellyfin)
-|
+| Posterr | Media display for Plex, Sonarr, and Radarr | ![GitHub last commit](https://img.shields.io/github/last-commit/petersem/posterr)| [petersem/posterr](https://github.com/petersem/poster)
+
