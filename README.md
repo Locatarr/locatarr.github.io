@@ -37,7 +37,7 @@ All services are supported on Windows, macOS, Linux, and Docker unless otherwise
 |Syncarr                                                                                            |Sync two Radarr/Sonarr/Lidarr servers via API      |![GitHub last commit](https://img.shields.io/github/last-commit/syncarr/syncarr)                             |[syncarr/syncarr](https://github.com/syncarr/syncarr)                |                                           |
 |Tdarr ![GitHub All Releases](https://img.shields.io/github/downloads/HaveAGitGat/tdarr/total)      |FFmpeg/HandBrake + video health checking           |![Github last commit](https://img.shields.io/github/last-commit/HaveAGitGat/Tdarr)                           |[HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr)            |[/r/Tdarr](http://reddit.com/r/tdarr)      |
 |Traktarr                                                                                           |Add new media based on Trakt lists                 |![GitHub last commit](https://img.shields.io/github/last-commit/l3uddz/traktarr)                             |[l3uddz/traktarr](https://github.com/l3uddz/traktarr)                |                                           |
-|Prowlarr ![GitHub All Releases](https://img.shields.io/docker/pulls/hotio/prowlarr)           |Indexer manager/proxy built on arr .net/reactjs base stack, to integrate various PVR apps     |![GitHub last commit](https://img.shields.io/github/last-commit/Prowlarr/Prowlarr)   |[Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) |[/r/Prowlarr](http://reddit.com/r/prowlarr)
+
 
 # Other Helpful Apps
 
