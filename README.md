@@ -43,11 +43,12 @@ All services are supported on Windows, macOS, Linux, and Docker unless otherwise
 
 # Other Helpful Apps
 
-|Service                                                                                            |Usage                                              |Recent Activity                                                                                              |Github                                                               |Reddit                                     |
-|---------------------------------------------------------------------------------------------------|---------------------------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------|
-|Ombi ![GitHub All Releases](https://img.shields.io/github/downloads/tidusjar/ombi/total) | Manages media requests | ![GitHub last commit](https://img.shields.io/github/last-commit/tidusjar/ombi) | [tidusjar/Ombi](https://github.com/tidusjar/Ombi) | [/r/Ombi](http://www.reddit.com/r/ombi)
-|Overseerr | Manages media requests | ![GitHub last commit](https://img.shields.io/github/last-commit/sct/overseerr) | [sct/overseerr](https://github.com/sct/overseerr) | [/r/Overseerr](https://www.reddit.com/r/Overseerr/)
-| Unmanic  | Transcodes your library | ![GitHub last commit](https://img.shields.io/github/last-commit/josh5/unmanic)| [josh5/unmanic](https://github.com/Josh5/unmanic)| 
-| Jellyfin  | Free Software Media System | ![GitHub last commit](https://img.shields.io/github/last-commit/jellyfin/jellyfin)| [jellyfin/jellyfin](https://github.com/jellyfin)| [/r/Jellyfin](http://www.reddit.com/r/jellyfin)
-| Posterr | Media display for Plex, Sonarr, and Radarr | ![GitHub last commit](https://img.shields.io/github/last-commit/petersem/posterr)| [petersem/posterr](https://github.com/petersem/poster)
+| Service                                                                                  | Usage                                      | Github                                                 | Reddit                                              |
+|------------------------------------------------------------------------------------------|--------------------------------------------|--------------------------------------------------------|-----------------------------------------------------|
+| Ombi  | Manages media requests                     | [tidusjar/Ombi](https://github.com/tidusjar/Ombi)      | [/r/Ombi](http://www.reddit.com/r/ombi)             |
+| Overseerr                                                                                | Manages media requests                     | [sct/overseerr](https://github.com/sct/overseerr)      | [/r/Overseerr](https://www.reddit.com/r/Overseerr/) |
+| Unmanic                                                                                  | Transcodes your library                    | [josh5/unmanic](https://github.com/Josh5/unmanic)      |                                                     |
+| Jellyfin                                                                                 | Free Software Media System                 | [jellyfin/jellyfin](https://github.com/jellyfin)       | [/r/Jellyfin](http://www.reddit.com/r/jellyfin)     |
+| Posterr                                                                                  | Media display for Plex, Sonarr, and Radarr | [petersem/posterr](https://github.com/petersem/poster) |                                                     |
+
 
