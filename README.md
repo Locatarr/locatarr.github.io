@@ -47,7 +47,7 @@ All services are supported on Windows, macOS, Linux, and Docker unless otherwise
 | Tdarr                         | FFmpeg/HandBrake + video health checking                                                                                                              | [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr)             | [/r/Tdarr](http://reddit.com/r/tdarr)       |
 | Traktarr                      | Add new media based on Trakt lists                                                                                                                    | [l3uddz/traktarr](https://github.com/l3uddz/traktarr)                 |                                             |
 | Unpackerr                     | Extracts archives from watch folders for import into other ARR apps                                                                                   | [davidnewhall/unpackerr](https://github.com/davidnewhall/unpackerr)   |
-          |                                             |
+ 
 
 
 
