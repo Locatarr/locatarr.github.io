@@ -1,0 +1,61 @@
+{
+	"applications": [
+		{
+			"name": "Gaps",
+			"description": "Searches through your Plex Server for all movies, then queries for known movies in the same collection.",
+			"github_slug": "JasonHHouse"
+		},
+		{
+			"name": "Jackett2Telegram",
+			"description": "A self-hosted Telegram Python Bot that dumps posts from Jackett RSS feeds to a Telegram chat.",
+			"github_slug": "danimart1991/jackett2telegram"
+		},
+		{
+			"name": "Jellyfin",
+			"description": "Free Software Media System",
+			"github_slug": "jellyfin/jellyfin",
+			"subreddit": "r/Jellyfin"
+		},
+		{
+			"name": "Mayhem's Star Scripts",
+			"description": "Scripts to make using the starr apps easier, actively being updated",
+			"github_slug": "MayhemBill/Starr-Scripts"
+		},
+		{
+			"name": "Ombi",
+			"description": "Manages media requests",
+			"github_slug": "tidusjar/Ombi",
+			"subreddit": "r/Ombi"
+		},
+		{
+			"name": "Radarr AutoDelete",
+			"description": "Simple script, which deletes movies with a specific tag after a certain amount of days",
+			"github_slug": "JCSynthTux/radarr_autodelete"
+		},
+		{
+			"name": "Radarr-Striptracks",
+			"description": "adds a script to automatically strip out unwanted audio and subtitle streams, keeping only the desired languages.",
+			"github_slug": "linuxserver/docker-mods/tree/radarr-striptracks"
+		},
+		{
+			"name": "Sickbeard MP4 Automator",
+			"description": "Automatically converts media files downloaded by various programs to a standardized format, and tags them with the appropriate metadata from TMDB if the container supports tagging.",
+			"github_slug": "mdhiggins/sickbeard_mp4_automator"
+		},
+		{
+			"name": "theme.park",
+			"description": "Themes for all the *arrs",
+			"github_slug": "gilbn/theme.park"
+		},
+		{
+			"name": "TrailerDownloader",
+			"description": "Downloads all missing trailers for movies in your Plex library.",
+			"github_slug": "taylorbobaylor/TrailerDownloader"
+		},
+		{
+			"name": "Unmanic",
+			"description": "Transcodes your library",
+			"github_slug": "josh5/unmanic"
+		}
+	]
+}

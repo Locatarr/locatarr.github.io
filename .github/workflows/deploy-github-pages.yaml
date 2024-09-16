@@ -1,0 +1,49 @@
+name: "Deploy GitHub Pages"
+on: 
+  push:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Generate index.md
+        run: |
+          mkdir -p tmp/jekyll-source
+          cp .github/INDEX_TEMPLATE.md tmp/jekyll-source/index.md
+          cp _config.yml tmp/jekyll-source/
+          .github/locatarr-table-generator ./arr-services.json > tmp/arr-services-table.md
+          .github/locatarr-table-generator ./other-helpful-apps.json > tmp/other-helpful-apps-table.md
+          sed -i -e "/ARR_SERVICES_TABLE/r tmp/arr-services-table.md" -e "//d" tmp/jekyll-source/index.md
+          sed -i -e "/OTHER_HELPFUL_APPS_TABLE/r tmp/other-helpful-apps-table.md" -e "//d" tmp/jekyll-source/index.md
+
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: "tmp/jekyll-source"
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}

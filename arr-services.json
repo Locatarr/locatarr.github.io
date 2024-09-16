@@ -1,0 +1,212 @@
+{
+	"applications": [
+		{
+			"name": "Addarr",
+			"description": "Telegram bot for Sonarr/Radarr",
+			"github_slug": "Waterboy1602/Addarr"
+		},
+		{
+			"name": "Autobrr",
+			"description": "Modern torrent and Usenet download tool with automation inspired by Trackarr, Autodl-irssi, and Flexget",
+			"github_slug": "autobrr/autobrr"
+		},
+		{
+			"name": "Bazarr",
+			"description": "Automates & manages **subtitles**",
+			"github_slug": "morpheus65535/bazarr"
+		},
+		{
+			"name": "Bobarr",
+			"description": "Radarr+Sonarr+Jackett+VPN",
+			"github_slug": "iam4x/bobarr"
+		},
+		{
+			"name": "Cardigann",
+			"description": "Alternative to Jackett",
+			"github_slug": "cardigann/cardigann"
+		},
+		{
+			"name": "Deleterr",
+			"description": "Automates deleting inactive and stale media from Plex/Sonarr/Radarr",
+			"github_slug": "rfsbraz/deleterr"
+		},
+		{
+			"name": "Doplarr",
+			"description": "Uses modern Discord slash commands and components, which provides a clean, performant UI on desktop and mobile.",
+			"github_slug": "kiranshila/Doplarr"
+		},
+		{
+			"name": "Elsewherr",
+			"description": "See disclaimer on page. See if your movies from Radarr are available on a streaming service, and add a tag against the movie if it is.",
+			"github_slug": "Adman1020/Elsewherr"
+		},
+		{
+			"name": "Excludarr",
+			"description": "Manages you library in Sonarr and Radarr to only consist out of movies and series that are not present on any of the configured streaming providers.",
+			"github_slug": "haijeploeg/excludarr"
+		},
+		{
+			"name": "Exportarr",
+			"description": "AIO Prometheus Exporter for Sonarr, Radarr or Lidarr",
+			"github_slug": "onedr0op/exportarr"
+		},
+		{
+			"name": "Homarr",
+			"description": "Customizable browser's home page to interact with your homeserver's Docker containers",
+			"github_slug": "ajnart/homarr"
+		},
+		{
+			"name": "Jackett",
+			"description": "API Support for your favorite torrent trackers.",
+			"github_slug": "Jackett/Jackett",
+			"subreddit": "r/Jackett"
+		},
+		{
+			"name": "Janitorr",
+			"description": "Cleans your Radarr, Sonarr, Jellyseerr and Jellyfin before you run out of space",
+			"github_slug": "Schaka/janitorr"
+		},
+		{
+			"name": "Jellyseerr",
+			"description": "Fork of overseerr for jellyfin support.",
+			"github_slug": "Fallenbagel/jellyseerr"
+		},
+		{
+			"name": "Kapowarr",
+			"description": "Automates & manages **comic books**",
+			"github_slug": "Casvt/Kapowarr",
+			"subreddit": "r/Kapowarr"
+		},
+		{
+			"name": "Lidarr",
+			"description": "Automates & manages **music**",
+			"github_slug": "lidarr/lidarr",
+			"subreddit": "r/lidarr"
+		},
+		{
+			"name": "Listrr",
+			"description": "Automates lists on trakt.tv based on your filters.",
+			"github_slug": "TheUltimateC0der/Listrr"
+		},
+		{
+			"name": "Logarr",
+			"description": "A log consolidation tool written in PHP",
+			"github_slug": "Monitorr/logarr"
+		},
+		{
+			"name": "Maintainerr",
+			"description": "Maintenance tool for the Plex ecosystem",
+			"github_slug": "jorenn92/Maintainerr"
+		},
+		{
+			"name": "Monitorr",
+			"description": "A webfront to live display the status of any webapp or service",
+			"github_slug": "Monitorr/Monitorr"
+		},
+		{
+			"name": "Movearr",
+			"description": "Simple CLI tool to perform Sonnar/Radarr moves based on specific criteria.",
+			"github_slug": "l3uddz/movearr"
+		},
+		{
+			"name": "Mylarr",
+			"description": "Automates & manages **comic books**",
+			"github_slug": "mylar3/mylar3"
+		},
+		{
+			"name": "Organizr",
+			"description": "HTPC/Homelab Services Organizer",
+			"github_slug": "causefx/Organizr",
+			"subreddit": "r/Organizr"
+		},
+		{
+			"name": "Overseerr",
+			"description": "FOSS app for managing requests for your media library. Integrates with your existing services",
+			"github_slug": "sct/overseerr"
+		},
+		{
+			"name": "Posterr",
+			"description": "Media display for Plex, Sonarr, and Radarr",
+			"github_slug": "petersem/posterr"
+		},
+		{
+			"name": "Posterizarr",
+			"description": "Automated poster maker for Plex/Jellyfin/Emby.",
+			"github_slug": "fscorrupt/Posterizarr"
+		},
+		{
+			"name": "prefetcharr",
+			"description": "Let Sonarr fetch the next season of a show you are watching on Jellyfin/Emby/Plex.",
+			"github_slug": "p-hueber/prefetcharr"
+		},
+		{
+			"name": "Prowlarr",
+			"description": "Indexer Manager that syncs with other *arrs.",
+			"github_slug": "Prowlarr/Prowlarr",
+			"subreddit": "r/Prowlarr"
+		},
+		{
+			"name": "Radarr",
+			"description": "Automates & manages **movies**",
+			"github_slug": "Radarr/Radarr",
+			"subreddit": "r/Radarr"
+		},
+		{
+			"name": "Readarr",
+			"description": "Automates & manages **ebooks**",
+			"github_slug": "Readarr/Readarr"
+		},
+		{
+			"name": "Requestrr",
+			"description": "chatbot used to simplify using services like Sonarr/Radarr/Ombi via chat",
+			"github_slug": "Darkalfx/requestrr"
+		},
+		{
+			"name": "Rollarr",
+			"description": "Automatic Pre-roll script with a GUI for Plex",
+			"github_slug": "TheHumanRobot/Rollarr"
+		},
+		{
+			"name": "Searcharr",
+			"description": "Sonarr & Radarr Telegram Bot",
+			"github_slug": "toddrobb99/searcharr"
+		},
+		{
+			"name": "Sonarr",
+			"description": "Automates & manages **TV series**",
+			"github_slug": "Sonarr/Sonarr",
+			"subreddit": "r/Sonarr"
+		},
+		{
+			"name": "Swaparr",
+			"description": "An app that watches dowloads grabbed by an *arr app for stalled ones to be deleted.",
+			"github_slug": "ThijmenGThN/swaparr"
+		},
+		{
+			"name": "Syncarr",
+			"description": "Sync two Radarr/Sonarr/Lidarr servers via API",
+			"github_slug": "syncarr/syncarr"
+		},
+		{
+			"name": "Tdarr",
+			"description": "FFmpeg/HandBrake + video health checking",
+			"github_slug": "HaveAGitGat/Tdarr",
+			"subreddit": "r/Tdarr"
+		},
+		{
+			"name": "Traktarr",
+			"description": "Add new media based on Trakt lists",
+			"github_slug": "l3uddz/traktarr"
+		},
+		{
+			"name": "UmlautAdaptarr",
+			"description": "A tool to work around Sonarr, Radarr, Lidarr and Readarrs problems with foreign languages",
+			"github_slug": "PCJones/UmlautAdaptarr"
+		},
+		{
+			"name": "Unpackerr",
+			"description": "Extracts archives from watch folders for import into other ARR apps",
+			"github_slug": "davidnewhall/unpackerr"
+		}
+	]
+}
