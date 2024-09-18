@@ -19,6 +19,18 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
+      - name: Generate MD Table (arr-services)
+        id: table_arr_services
+        uses: Locatarr/markdown-table-generator@master
+        with:
+          input-file: ${{ github.workspace }}/arr-services.json
+
+      - name: Generate MD Table (other-helpful-apps)
+        id: table_other_apps
+        uses: Locatarr/markdown-table-generator@master
+        with:
+          input-file: ${{ github.workspace }}/other-helpful-apps.json
+
       - name: Generate index.md
         run: |
           mkdir -p tmp/jekyll-source
@@ -26,8 +38,9 @@ jobs:
           cp _config.yml tmp/jekyll-source/
           .github/locatarr-table-generator ./arr-services.json > tmp/arr-services-table.md
           .github/locatarr-table-generator ./other-helpful-apps.json > tmp/other-helpful-apps-table.md
-          sed -i -e "/ARR_SERVICES_TABLE/r tmp/arr-services-table.md" -e "//d" tmp/jekyll-source/index.md
-          sed -i -e "/OTHER_HELPFUL_APPS_TABLE/r tmp/other-helpful-apps-table.md" -e "//d" tmp/jekyll-source/index.md
+          sed -i -e "/ARR_SERVICES_TABLE/r ${{ steps.table_arr_services.outputs.output-file }}" -e "//d" tmp/jekyll-source/index.md
+          sed -i -e "/OTHER_HELPFUL_APPS_TABLE/r ${{ steps.table_other_apps.outputs.output-file }}" -e "//d" tmp/jekyll-source/index.md
+          cat tmp/jekyll-source/index.md
 
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
