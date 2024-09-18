@@ -23,13 +23,13 @@ jobs:
         id: table_arr_services
         uses: Locatarr/markdown-table-generator@master
         with:
-          input-file: ${{ github.workspace }}/arr-services.json
+          file-path: ${{ github.workspace }}/arr-services.json
 
       - name: Generate MD Table (other-helpful-apps)
         id: table_other_apps
         uses: Locatarr/markdown-table-generator@master
         with:
-          input-file: ${{ github.workspace }}/other-helpful-apps.json
+          file-path: ${{ github.workspace }}/other-helpful-apps.json
 
       - name: Generate index.md
         run: |
