@@ -3,7 +3,7 @@
 		{
 			"name": "Gaps",
 			"description": "Searches through your Plex Server for all movies, then queries for known movies in the same collection.",
-			"github_slug": "JasonHHouse"
+			"github_slug": "JasonHHouse/gaps"
 		},
 		{
 			"name": "Jackett2Telegram",

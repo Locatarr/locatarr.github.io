@@ -48,7 +48,7 @@
 		{
 			"name": "Exportarr",
 			"description": "AIO Prometheus Exporter for Sonarr, Radarr or Lidarr",
-			"github_slug": "onedr0op/exportarr"
+			"github_slug": "onedr0p/exportarr"
 		},
 		{
 			"name": "Homarr",
@@ -159,17 +159,17 @@
 		{
 			"name": "Requestrr",
 			"description": "chatbot used to simplify using services like Sonarr/Radarr/Ombi via chat",
-			"github_slug": "Darkalfx/requestrr"
+			"github_slug": "thomst08/requestrr"
 		},
 		{
 			"name": "Rollarr",
-			"description": "Automatic Pre-roll script with a GUI for Plex",
-			"github_slug": "TheHumanRobot/Rollarr"
+			"description": "Automatic Pre-roll script with a GUI for Plex (Archived)",
+			"github_slug": "red4dj/Rollarr"
 		},
 		{
 			"name": "Searcharr",
 			"description": "Sonarr & Radarr Telegram Bot",
-			"github_slug": "toddrobb99/searcharr"
+			"github_slug": "toddrob99/searcharr"
 		},
 		{
 			"name": "Sonarr",
