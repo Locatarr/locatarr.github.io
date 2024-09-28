@@ -6,9 +6,9 @@
 </p>
 
 Locating *Arr services and aggregating them into a single list.
-Feel free to open a [PR](https://github.com/Locatarr/Locatarr/pulls) with apps that aren't listed!
+Feel free to open a [PR](https://github.com/Locatarr/locatarr.github.io/pulls) with apps that aren't listed!
 
-**See Also:** [What Happened to rustyshackleford36/locatarr](https://github.com/Locatarr/Locatarr/discussions/3)
+**See Also:** [What Happened to rustyshackleford36/locatarr](https://github.com/Locatarr/locatarr.github.io/discussions/3)
 
 ## *ARR Services
 
