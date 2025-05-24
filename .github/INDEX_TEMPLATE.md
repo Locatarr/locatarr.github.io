@@ -16,3 +16,5 @@ ARR_SERVICES_TABLE
 ## Other Helpful Apps
 
 OTHER_HELPFUL_APPS_TABLE
+
+If you're looking for assistance with *Arr apps, checkout the [SUPPORT-ARR Discord!](https://discord.com/invite/VpZnEVzVqD)
