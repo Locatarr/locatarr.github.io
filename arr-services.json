@@ -222,6 +222,26 @@
 			"name": "Unpackerr",
 			"description": "Extracts archives from watch folders for import into other ARR apps",
 			"github_slug": "davidnewhall/unpackerr"
+		},
+		{
+			"name": "Huntarr",
+			"description": "Watches media libraries and searches for missing content and quality upgrades in Sonarr, Radarr, and Lidarr",
+			"github_slug": "plexguide/Huntarr.io"
+		},
+		{
+			"name": "Cleanuparr",
+			"description": "Tool for automating cleanup of unwanted or blocked files in *arr applications.",
+			"github_slug": "Cleanuparr/Cleanuparr"
+		},
+		{
+			"name": "Taggarr",
+			"description": "Scans and tags media content and will mark it as 'wrong-dub' if the media is not in the desired language.",
+			"github_slug": "BassHous3/taggarr"
+		},
+		{
+			"name": "Wizarr",
+			"description": "An automatic invitation system for Plex, Jellyfin, Emby, AudiobookShelf, Komga, Kavita and Romm",
+			"github_slug": "Wizarrrr/wizarr"
 		}
 	]
 }
