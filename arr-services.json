@@ -162,11 +162,6 @@
 			"subreddit": "r/Radarr"
 		},
 		{
-			"name": "Readarr",
-			"description": "Automates & manages **ebooks**",
-			"github_slug": "Readarr/Readarr"
-		},
-		{
 			"name": "Recyclarr",
 			"description": "Automatically sync TRaSH Guides to your Sonarr and Radarr instances",
 			"github_slug": "recyclarr/recyclarr"
