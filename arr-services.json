@@ -244,11 +244,6 @@
 			"github_slug": "davidnewhall/unpackerr"
 		},
 		{
-			"name": "Huntarr",
-			"description": "Watches media libraries and searches for missing content and quality upgrades in Sonarr, Radarr, and Lidarr",
-			"github_slug": "plexguide/Huntarr.io"
-		},
-		{
 			"name": "Cleanuparr",
 			"description": "Tool for automating cleanup of unwanted or blocked files in *arr applications.",
 			"github_slug": "Cleanuparr/Cleanuparr"
