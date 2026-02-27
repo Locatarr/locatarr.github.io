@@ -92,11 +92,6 @@
 			"github_slug": "Schaka/janitorr"
 		},
 		{
-			"name": "Jellyseerr",
-			"description": "Fork of overseerr for jellyfin support.",
-			"github_slug": "Fallenbagel/jellyseerr"
-		},
-		{
 			"name": "Kapowarr",
 			"description": "Automates & manages **comic books**",
 			"github_slug": "Casvt/Kapowarr",
@@ -143,11 +138,6 @@
 			"description": "HTPC/Homelab Services Organizer",
 			"github_slug": "causefx/Organizr",
 			"subreddit": "r/Organizr"
-		},
-		{
-			"name": "Overseerr",
-			"description": "FOSS app for managing requests for your media library. Integrates with your existing services",
-			"github_slug": "sct/overseerr"
 		},
 		{
 			"name": "Posterr",
@@ -205,6 +195,11 @@
 			"name": "Searcharr",
 			"description": "Sonarr & Radarr Telegram Bot",
 			"github_slug": "toddrob99/searcharr"
+		},
+		{
+			"name": "Seerr",
+			"description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
+			"github_slug": "seerr-team/seerr"
 		},
 		{
 			"name": "Sonarr",
