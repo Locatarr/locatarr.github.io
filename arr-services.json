@@ -257,6 +257,11 @@
 			"name": "Bookshelf",
 			"description": "A drop in replacement for Readarr to manage **ebooks** and **audiobooks**",
 			"github_slug": "pennydreadful/bookshelf"
+		},
+		{
+			"name": "Bazarr+",
+			"description": "Fork of Bazarr adding a subtitle editor, OpenSubtitles.org scraper, mass batch operations, provider-priority search, and encrypted API keys",
+			"github_slug": "LavX/bazarr"
 		}
 	]
 }
