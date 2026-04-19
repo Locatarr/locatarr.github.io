@@ -259,13 +259,8 @@
 			"github_slug": "pennydreadful/bookshelf"
 		},
 		{
-			"name": "arrstack",
-			"description": "Single-binary TUI installer that sets up and auto-wires a 12-service self-hosted media stack (Sonarr, Radarr, Bazarr+, Jellyfin, Jellyseerr, Prowlarr, qBittorrent, Tdarr, Trailarr, FlareSolverr) on a clean Linux host in about 90 seconds.",
-			"github_slug": "LavX/arrstack"
-		},
-		{
 			"name": "Bazarr+",
-			"description": "Hard fork of Bazarr adding a full in-app subtitle editor (video + waveform, per-cue AI translation via OpenRouter, ffsubsync), OpenSubtitles.org scraper, mass batch operations, provider-priority search, and encrypted API keys.",
+			"description": "Fork of Bazarr adding a subtitle editor, OpenSubtitles.org scraper, mass batch operations, provider-priority search, and encrypted API keys",
 			"github_slug": "LavX/bazarr"
 		}
 	]
