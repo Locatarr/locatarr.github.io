@@ -6,26 +6,6 @@
 			"github_slug": "Waterboy1602/Addarr"
 		},
 		{
-			"name": "Profilarr",
-			"description": "Configuration management tool for Radarr/Sonarr that automates importing and version control of custom formats and quality profiles",
-			"github_slug": "Dictionarry-Hub/profilarr"
-		},
-		{
-			"name": "Notifiarr",
-			"description": "Unified system to manage and customize Discord notifications for network monitoring, downtime, and health alerts",
-			"github_slug": "Notifiarr/notifiarr"
-		},
-		{
-			"name": "Pulsarr",
-			"description": "Pulsarr bridges Plex watchlists with Sonarr and Radarr for real-time media monitoring and automated content acquisition",
-			"github_slug": "jamcalli/Pulsarr"
-		},
-		{
-			"name": "Buildarr",
-			"description": "A solution to automating deployment and configuration of your *Arr stack",
-			"github_slug": "buildarr/buildarr"
-		},
-		{
 			"name": "Autobrr",
 			"description": "Modern torrent and Usenet download tool with automation inspired by Trackarr, Autodl-irssi, and Flexget",
 			"github_slug": "autobrr/autobrr"
@@ -36,14 +16,34 @@
 			"github_slug": "morpheus65535/bazarr"
 		},
 		{
+			"name": "Bazarr+",
+			"description": "Fork of Bazarr adding a subtitle editor, OpenSubtitles.org scraper, mass batch operations, provider-priority search, and encrypted API keys",
+			"github_slug": "LavX/bazarr"
+		},
+		{
 			"name": "Bobarr",
 			"description": "Radarr+Sonarr+Jackett+VPN",
 			"github_slug": "iam4x/bobarr"
 		},
 		{
+			"name": "Bookshelf",
+			"description": "A drop in replacement for Readarr to manage **ebooks** and **audiobooks**",
+			"github_slug": "pennydreadful/bookshelf"
+		},
+		{
+			"name": "Buildarr",
+			"description": "A solution to automating deployment and configuration of your *Arr stack",
+			"github_slug": "buildarr/buildarr"
+		},
+		{
 			"name": "Cardigann",
 			"description": "Alternative to Jackett",
 			"github_slug": "cardigann/cardigann"
+		},
+		{
+			"name": "Cleanuparr",
+			"description": "Tool for automating cleanup of unwanted or blocked files in *arr applications.",
+			"github_slug": "Cleanuparr/Cleanuparr"
 		},
 		{
 			"name": "Deleterr",
@@ -134,6 +134,11 @@
 			"github_slug": "MylarComics/mylar3"
 		},
 		{
+			"name": "Notifiarr",
+			"description": "Unified system to manage and customize Discord notifications for network monitoring, downtime, and health alerts",
+			"github_slug": "Notifiarr/notifiarr"
+		},
+		{
 			"name": "Organizr",
 			"description": "HTPC/Homelab Services Organizer",
 			"github_slug": "causefx/Organizr",
@@ -155,6 +160,11 @@
 			"github_slug": "p-hueber/prefetcharr"
 		},
 		{
+			"name": "Profilarr",
+			"description": "Configuration management tool for Radarr/Sonarr that automates importing and version control of custom formats and quality profiles",
+			"github_slug": "Dictionarry-Hub/profilarr"
+		},
+		{
 			"name": "Prowlarr",
 			"description": "Indexer Manager that syncs with other *arrs.",
 			"github_slug": "Prowlarr/Prowlarr",
@@ -164,6 +174,11 @@
 			"name": "Proxarr",
 			"description": "Prevents Sonnar/Radarr downloading of media already available on your Watching providers by region (ex: Netflix, etc..).",
 			"github_slug": "Fazzani/Proxarr"
+		},
+		{
+			"name": "Pulsarr",
+			"description": "Pulsarr bridges Plex watchlists with Sonarr and Radarr for real-time media monitoring and automated content acquisition",
+			"github_slug": "jamcalli/Pulsarr"
 		},
 		{
 			"name": "Radarr",
@@ -218,6 +233,11 @@
 			"github_slug": "syncarr/syncarr"
 		},
 		{
+			"name": "Taggarr",
+			"description": "Scans and tags media content and will mark it as 'wrong-dub' if the media is not in the desired language.",
+			"github_slug": "BassHous3/taggarr"
+		},
+		{
 			"name": "Tdarr",
 			"description": "FFmpeg/HandBrake + video health checking",
 			"github_slug": "HaveAGitGat/Tdarr",
@@ -239,29 +259,9 @@
 			"github_slug": "davidnewhall/unpackerr"
 		},
 		{
-			"name": "Cleanuparr",
-			"description": "Tool for automating cleanup of unwanted or blocked files in *arr applications.",
-			"github_slug": "Cleanuparr/Cleanuparr"
-		},
-		{
-			"name": "Taggarr",
-			"description": "Scans and tags media content and will mark it as 'wrong-dub' if the media is not in the desired language.",
-			"github_slug": "BassHous3/taggarr"
-		},
-		{
 			"name": "Wizarr",
 			"description": "An automatic invitation system for Plex, Jellyfin, Emby, AudiobookShelf, Komga, Kavita and Romm",
 			"github_slug": "Wizarrrr/wizarr"
-		},
-		{
-			"name": "Bookshelf",
-			"description": "A drop in replacement for Readarr to manage **ebooks** and **audiobooks**",
-			"github_slug": "pennydreadful/bookshelf"
-		},
-		{
-			"name": "Bazarr+",
-			"description": "Fork of Bazarr adding a subtitle editor, OpenSubtitles.org scraper, mass batch operations, provider-priority search, and encrypted API keys",
-			"github_slug": "LavX/bazarr"
 		}
 	]
 }

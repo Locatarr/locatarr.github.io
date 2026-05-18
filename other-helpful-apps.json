@@ -1,6 +1,11 @@
 {
 	"applications": [
 		{
+			"name": "arrstack",
+			"description": "TUI installer that sets up a TRaSH-compliant self-hosted media stack on a clean Linux host",
+			"github_slug": "LavX/arrstack"
+		},
+		{
 			"name": "CLIX",
 			"description": "A Plex Terminal Media Player",
 			"github_slug": "jeremehancock/CLIX"
@@ -76,11 +81,6 @@
 			"name": "Unmanic",
 			"description": "Transcodes your library",
 			"github_slug": "josh5/unmanic"
-		},
-		{
-			"name": "arrstack",
-			"description": "TUI installer that sets up a TRaSH-compliant self-hosted media stack on a clean Linux host",
-			"github_slug": "LavX/arrstack"
 		}
 	]
 }
