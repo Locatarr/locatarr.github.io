@@ -3,8 +3,7 @@
 		{
 			"name": "arrstack",
 			"description": "TUI installer that sets up a TRaSH-compliant self-hosted media stack on a clean Linux host",
-			"github_slug": "LavX/arrstack",
-			"another_invalid_key": 1337
+			"github_slug": "LavX/arrstack"
 		},
 		{
 			"name": "CLIX",

@@ -3,8 +3,7 @@
 		{
 			"name": "Addarr",
 			"description": "Telegram bot for Sonarr/Radarr",
-			"github_slug": "Waterboy1602/Addarr",
-			"test_invalid_key": "invalid"
+			"github_slug": "Waterboy1602/Addarr"
 		},
 		{
 			"name": "Autobrr",
