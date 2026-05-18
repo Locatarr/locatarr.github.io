@@ -2,5 +2,23 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "config:recommended"
-  ]
+  ],
+  "github-actions": {
+    "packageRules": [
+      {
+        "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
+        // Exclude pre-1.0.0 versions
+        "matchCurrentVersion": "!/^0/",
+        "automerge": true
+      }
+    ]
+  },
+  "major": {
+    "minimumReleaseAge": "7 days"
+  },
+  "minor": {
+    "minimumReleaseAge": "1 day"
+  },
+  "platformAutomerge": false,
+  "automergeType": "pr"
 }
