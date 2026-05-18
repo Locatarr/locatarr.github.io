@@ -19,6 +19,6 @@
   "minor": {
     "minimumReleaseAge": "1 day"
   },
-  "platformAutomerge": false,
+  "platformAutomerge": true,
   "automergeType": "pr"
 }
