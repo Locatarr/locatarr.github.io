@@ -17,6 +17,9 @@ jobs:
           schema: ./app-list-schema.json
           files: ./arr-services.json
 
+      - name: Ensure formatting
+        run: jq --tab '.' arr-services.json | diff - arr-services.json
+
   validate-other-apps-json:
     runs-on: ubuntu-latest
     steps:
@@ -26,3 +29,6 @@ jobs:
         with:
           schema: ./app-list-schema.json
           files: ./other-helpful-apps.json
+
+      - name: Ensure formatting
+        run: jq --tab '.' other-helpful-apps.json | diff - other-helpful-apps.json
