@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      - uses: dsanders11/json-schema-validate-action@v2.0.0
+      - uses: dsanders11/json-schema-validate-action@v2.1.0
         with:
           schema: ./app-list-schema.json
           files: ./arr-services.json
@@ -25,7 +25,7 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      - uses: dsanders11/json-schema-validate-action@v2.0.0
+      - uses: dsanders11/json-schema-validate-action@v2.1.0
         with:
           schema: ./app-list-schema.json
           files: ./other-helpful-apps.json
